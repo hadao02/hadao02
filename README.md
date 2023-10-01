@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Ha Dao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadao02&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadao02&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadao02&hide_progress=true)
