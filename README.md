@@ -1,4 +1,3 @@
-#### Hi👋
 
 <!--
 **hadao02/hadao02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- ⚡ Fun fact: I commit sometimes
+⚡ Fun fact: I commit sometimes
 
 ![Ha Dao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadao02&theme=tokyonight&show_icons=false) 
 
